@@ -14,8 +14,8 @@ I'm a tech enthusiast and developer passionate about transforming visionary idea
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ## 💼 Projects
-- [Project 1](https://github.com/your-username/project1): Description of your project 1.
-- [Project 2](https://github.com/your-username/project2): Description of your project 2. - Will update soon, still working (:
+- [Project 1](https://github.com/your-username/project1):
+- [Project 2](https://github.com/your-username/project2):  - Will update soon, still working (:
 
 ## 📈 GitHub Stats
 ![Pourush Nair](https://github-readme-stats.vercel.app/api?username=PourushNair&show_icons=true&theme=radical)
