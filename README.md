@@ -15,10 +15,7 @@ I'm a tech enthusiast and developer passionate about transforming visionary idea
 
 ## 💼 Projects
 - [Project 1](https://github.com/your-username/project1):
-- [Project 2](https://github.com/your-username/project2):  - Will update soon, still working (:
-
-## 📈 GitHub Stats
-![Pourush Nair](https://github-readme-stats.vercel.app/api?username=PourushNair&show_icons=true&theme=radical)
+- [Project 2](https://github.com/your-username/project2):  - Will update soon, still working (
 
 ## 📫 Contact Me
 - Email: [pourushnair@gmail.com](mailto:pourushnair@gmail.com)
